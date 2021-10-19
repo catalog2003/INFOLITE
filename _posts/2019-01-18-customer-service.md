@@ -1,19 +1,25 @@
 ---
 layout: post
-title:  "What is Jekyll"
-author: jane
+title:  "How To Setup Windows 365"
+author: EARTH
 categories: [ Jekyll, tutorial ]
 image: assets/images/11.jpg
 ---
 
-No more databases, comment moderation, or pesky updates to install-just your content. Markdown, Liquid, HTML & CSS go in. Static sites come out ready for deployment. Permalinks, categories, pages, posts, and custom layouts are all first-class citizens here.
+## How To Setup Windows 365
+If you want to install Office or Office 365 on five computers and install Office on a sixth computer, you can disable installation on one of your current computers and activate the new one. This is not an option for a virtual machine running on a physical PC or server, like my office running in a Microsoft data center. If something happens to the virtual machine, it is no big deal to sit down, connect and complete the setup over a local hyper-V connection. 
+If you are installing for the first time or on multiple systems you can use the Download and click the Run Installer Service from the Microsoft website to run the installation service. Once the installation is complete, click Close to exit the installer and you can start Microsoft Office 365. 
+Once you have installed your Office versions, you can start using your Office applications. With a Microsoft Office 365 account, you have access to all new versions of Microsoft Office products. If you already have an Office account associated with a Microsoft account, you're ready to first install Office 365, reinstall Office, and install Office on another computer. 
+You can use Windows 365 on PCs, Macs, iPads and other mobile devices and browsers, including the Raspberry Pi computers that are increasingly popular in education, or install remote desktop applications. 
+It is as simple as accessing a virtual operating system (OS), purchasing a Windows 365 license and working with it, or purchasing a license to access other Microsoft services. Faculty members, doctoral students and Sunet ID students with an Office 365 account with Microsoft Office and Windows Webmail can download for free download. The first step is to try to install, reinstall, or repair Office 365 on a Windows PC and link it to a Microsoft account. 
+You can set up your email client with exchange Internet Message Access Protocol (IMAP) settings to access your Office 365 account. You can also configure Microsoft Outlook to access the account by setting up an Exchange connection. If you prefer to set up your Office 365 email account locally and confirm local settings for your setup, you can use these settings. 
+This tutorial describes how to add the Microsoft 365 email to Outlook 2016. To create your email client you need to know your Office 365 email address (based on your USC Net ID, username and password) and Office 365 server settings. Below is information about registering Office 365 and supported email clients to access your Office 365 account using IMAP, SMTP and OAuth2 authentication. 
+Individual users can then access Windows 365 through the Windows 365 Web Portal (if they have Business Edition) and login with their Azure AD credentials, just like any other Microsoft Cloud service. 
+If you encounter problems during the installation process of Office 365, please read our knowledge-based articles on solving common Microsoft Office 2013 and Office 365 installation problems with Microsoft resources. Windows 365 Enterprise Edition Requirements To use Windows 365, companies must meet a number of requirements and obtain a license from the Microsoft Admin Center. For systems that are sold before December 16, 2016 the Digitial Delivery System software will load your system ready for activation.See our article on how to enable Microsoft Office 2016 and Microsoft Office 365 on your new Dell system. 
+If you have Office 365 Business Premium or Business Essentials you can use Skype for Business with your subscription to call other people in your business. Note that the Skype app is not part of the Office 365 suite and cannot be integrated into Outlook 2016 like Skype. By default, anyone in the world who does business with Skype can contact you (provided they know your email address) if your firewall is configured to do so as long as they have an open communication policy. 
+Microsoft's long-awaited Windows 365 cloud PC service offers businesses the ability to access virtual endpoints from local devices without having to invest in virtual desktop infrastructure or acquire specialized capabilities. 
+A cloud-based Windows service that streams the entire Windows experience, including apps, data and settings, to any device registered in the Microsoft cloud. Windows 365 integrates with Microsoft Defender endpoints and physical Windows PCs, and for certain cloud PC security baselines you can use multi-factor authentication or a dedicated Windows 365 access policy to verify that the logins for the service come from real users. 
+The most remarkable thing about Microsoft's new Windows 365 service is how much it feels like a modern Windows 10 device. Given that it runs on brand new, squeaky clean hardware in Microsoft's data centers, the Cloud PC is able to preview Windows 11. Microsoft says that it will offer cloud-based PCs running Windows 11 when it reaches general availability later this year. 
+While he cannot bring his own identity or vanity domain to set up Microsoft 365, he can use the OnMicrosoft identity for both Microsoft 365 and Office 365. Since Office 365 is not a product key, it is connected to the Microsoft account required to purchase it. 
+He is working on Project Arcadia with Azure Virtual Desktop, a cloud gaming service that Microsoft is experimenting with, but he understands that consumer cloud PCs require Windows 365 and not all Windows 365 are suitable for small businesses. 
 
-Sick of dealing with hosting companies? GitHub Pages are powered by Jekyll, so you can easily deploy your site using GitHub for free-custom domain name and all.
-
-## What is Jekyll?
-
-Jekyll is a simple, blog-aware, static site generator.
-
-You create your content as text files (Markdown), and organize them into folders. Then, you build the shell of your site using Liquid-enhanced HTML templates. Jekyll automatically stitches the content and templates together, generating a website made entirely of static assets, suitable for uploading to any server.
-
-Jekyll happens to be the engine behind GitHub Pages, so you can host your project’s Jekyll page/blog/website on GitHub’s servers for free.
